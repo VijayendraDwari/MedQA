@@ -1,7 +1,6 @@
 # MedQA
  Medical question-answering (QA) system
-# Data Science & Engineering Live Test 
-
+ 
 ## Overview
 In this project, I have fine-tuned a language model on the MedPubQA dataset to build a medical question-answering (QA) system. The primary goal was to enable the model to provide accurate, detailed, and evidence-based answers to medical questions. The process involved several key steps, from data preparation to model fine-tuning and evaluation.
 
