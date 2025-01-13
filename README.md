@@ -52,7 +52,7 @@ User Query Input:
 
 The user can input any medical question via a simple text box.
 
-Model-Generated Answer:
+**Model-Generated Answer:**
 
 The system generates a concise answer to the query using the LoRA-tuned Llama model.
 Answers are informed by relevant medical documents retrieved from the PubMedQA dataset.
