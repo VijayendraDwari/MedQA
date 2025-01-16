@@ -47,13 +47,13 @@ We implement a custom LangChain-compatible LoRAMedicalLLM class that allows:
   Web App Integration: Medical QA System with Gradio
 This project implements a web app for a Medical Question Answering (QA) System using Gradio. The app integrates a LoRA-tuned Llama model and a Retrieval-Augmented Generation (RAG) pipeline to deliver accurate and contextually grounded answers.
 
-Features of the Web App:
+**Features of the Web App:**
 
 User Query Input:
 
 The user can input any medical question via a simple text box.
 
-**Model-Generated Answer:**
+Model-Generated Answer:
 
 The system generates a concise answer to the query using the LoRA-tuned Llama model.
 Answers are informed by relevant medical documents retrieved from the PubMedQA dataset.
