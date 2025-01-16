@@ -61,19 +61,25 @@ References to Retrieved Documents:
 
 The app displays the sources of information used to generate the answer.
 Each source is a document chunk retrieved using a FAISS vector store and similarity-based search.
+
 Workflow:
+
 Query Input:
 
 The user enters a question in the Gradio interface.
+
 Document Retrieval:
 
 Relevant document chunks are retrieved using FAISS and sentence-transformer embeddings.
+
 Answer Generation:
 
 The RAG pipeline feeds the retrieved context into the model, which generates a concise, context-aware answer.
+
 Display Results:
 
 The app shows both the generated answer and the referenced sources for transparency.
+
 Advantages:
 User-Friendly Interface:
 The Gradio app provides a straightforward and interactive way to query the system.
