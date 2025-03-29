@@ -31,7 +31,7 @@ MedQA is an advanced medical question-answering system that leverages the power 
 - **Scalable Architecture**: Modular design for easy updates and improvements
 
 ## Architecture
-![System Architecture](./RAG-Architecture.png)
+![System Architecture](./diagram-MedQA.png)
 
 ### Components:
 1. **Model Layer**
